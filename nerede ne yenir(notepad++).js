@@ -52,6 +52,7 @@ Kasýmpaþa / Geyikli /  (Corbacý) ............ ......Damardan  tuzlama
 
 Beþiktaþ  Etiler. Ulus, Levent, Maslak Çevreleri! 
 
+Beþiktaþ - Çýraðan Meyhanesi ............................. 2 duble 1 beyaz peynir
 Beyoðlu -  Kallavi [Meyhanel ............ ......... ......... .Çerkez Tavuðu
 Beyoðlu -  Lale iþkembecisi (Çorbacý) ............ ......Ýþkembe çorbasý 
 Etiler / Develi  (Kebap!   ............ ......... .... Çið köfte
@@ -188,3 +189,5 @@ ADALAR
 
 Büyükada /  Milto (Balýk! ……………. Kalamar  Tava
 Heybeliada / Mavi (Balýk)  ………….. Ýskorpit Sote
+
+
