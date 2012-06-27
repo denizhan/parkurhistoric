@@ -188,7 +188,3 @@ ADALAR
 
 Büyükada /  Milto (Balýk! ……………. Kalamar  Tava
 Heybeliada / Mavi (Balýk)  ………….. Ýskorpit Sote
-
-HAVAALANI
-
-BTA
