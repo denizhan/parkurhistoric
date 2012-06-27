@@ -52,6 +52,7 @@ Kasýmpaþa / Geyikli /  (Corbacý) ............ ......Damardan  tuzlama
 
 Beþiktaþ  Etiler. Ulus, Levent, Maslak Çevreleri! 
 
+Beþiktaþ - Çýraðan Meyhanesi ............................. 2 duble 1 beyaz peynir 1 tane de kavun
 Beyoðlu -  Kallavi [Meyhanel ............ ......... ......... .Çerkez Tavuðu
 Beyoðlu -  Lale iþkembecisi (Çorbacý) ............ ......Ýþkembe çorbasý 
 Etiler / Develi  (Kebap!   ............ ......... .... Çið köfte
@@ -68,6 +69,7 @@ Levent ve  Maslak / Hain Köfte (Köfteci) Hain  Köfte
 
 Boðaz,  Rumeli (Avrupa Yakasý) Ortaköy'den Sarýyer'e! 
 
+Rumeli / Kale (kahvaltý)................
 Ortaköy /  Feriye (Türk Mutfaðý) ..... Viþneli  Yapram Sarma 
 Bebek / Les Ambassadeurs (Lüks)… Levrek  Ambassador     
 Bebek / Meþhur Bebek  Badem Ezmesi (Tatlýcý] Badem  Ezmesi
@@ -188,3 +190,5 @@ ADALAR
 
 Büyükada /  Milto (Balýk! ……………. Kalamar  Tava
 Heybeliada / Mavi (Balýk)  ………….. Ýskorpit Sote
+
+
